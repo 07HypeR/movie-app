@@ -111,6 +111,7 @@ const Search = () => {
             </View>
           ) : null
         }
+        showsVerticalScrollIndicator={false}
       />
     </View>
   );
